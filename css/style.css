@@ -333,6 +333,18 @@ footer h2 {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
+  .blog-card {
+    width: 312px;
+    height: 362px;
+    margin-left: 24px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+  }
+  #blog-focus {
+    background-color: #dd0000;
+    color: #fff;
+    margin-bottom: 50px;
+  }
   .full-menu {
     background-color: #fff;
     color: #000;
